@@ -24,9 +24,7 @@ The **Smart Crop Recommendation System** is a Machine Learning application devel
 Follow these steps to set up the project locally:
 
 1.  **Clone the Repository:**
-    ```bash
-    git clone <YOUR_REPO_LINK_HERE>
-    ```
+    
 2.  **Navigate to the Directory:**
     ```bash
     cd Crop_Project
